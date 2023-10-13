@@ -8,7 +8,7 @@
 7 :- Husky
 
 # Folder Structure
-  react-boilerplate/
+  1. React-boilerplate/
     |-- build/
     |-- src/
     |    |-- assets/images
