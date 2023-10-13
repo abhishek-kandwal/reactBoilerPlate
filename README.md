@@ -1,11 +1,11 @@
 # steps 
-1 :- Basic structure of react-app
-2 :- Configure webpack & typescript to allow rendering of images & SVGs
-3 :- setup webpack config for multiple env.
-4 :- Add React refresh
-5 :- Linting with EsLint
-6 :- Code Formatting with Prettier
-7 :- Husky
+    1 :- Basic structure of react-app
+    2 :- Configure webpack & typescript to allow rendering of images & SVGs
+    3 :- setup webpack config for multiple env.
+    4 :- Add React refresh
+    5 :- Linting with EsLint
+    6 :- Code Formatting with Prettier
+    7 :- Husky
 
 # Folder Structure
     React-boilerplate/
