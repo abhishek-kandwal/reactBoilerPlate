@@ -12,7 +12,7 @@
     |
     |-- build/
     |-- src/
-    |    |-- assets
+    |    |-- assets/images
     |    |-- index.tsx
     |    |-- Index.tsx
     |    |-- App.tsx
@@ -21,6 +21,8 @@
     |-- webpack/
     |-- .babelrc
     |-- tsconfig.js
+    |-- .prettierrc.js
+    |-- .eslintrc.js
     |-- .gitignore
 
 # initialize - repo 
@@ -35,6 +37,7 @@
      |-- Index.tsx
      |-- App.tsx
      |-- declaration.d.ts
+     |-- style.css
 
 # add html boiler plate in it.
 # add `<div id="root"></div>` code in the body.
